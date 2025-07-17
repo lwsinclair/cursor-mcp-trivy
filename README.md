@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/norbinsh-cursor-mcp-trivy-badge.png)](https://mseep.ai/app/norbinsh-cursor-mcp-trivy)
+
 # Trivy Security Scanner MCP Server
 
 A Model Context Protocol (MCP) server that provides Trivy security scanning capabilities through a standardized interface.
